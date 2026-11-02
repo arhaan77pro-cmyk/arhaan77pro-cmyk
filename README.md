@@ -7,7 +7,6 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Open%20to-Data%20Analytics%20Internships-2ea44f?style=for-the-badge" alt="Open to internships">
-  <img src="https://komarev.com/ghpvc/?username=arhaan77pro-cmyk&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views">
 </p>
 
 ---
@@ -95,7 +94,7 @@ Queried user-journey data across funnel stages to find where users drop off. Cal
 </p>
 
 - 📧 **Email:** arhaan77pro@gmail.com
-- 📍 **Location:** Delhi / Patna, India
+- 📍 **Location:** Patna, India
 - 💬 **Ask me about:** SQL, Python for data analysis, dashboards, funnel analysis, or breaking into data analytics as a first-year student
 
 ---
